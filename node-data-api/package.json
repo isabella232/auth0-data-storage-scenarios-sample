@@ -1,0 +1,36 @@
+{
+  "name": "auth0-swift-data-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cookie-parser": "~1.4.1",
+    "cors": "^2.7.1",
+    "debug": "~2.2.0",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "express-jwt": "^3.3.0",
+    "jade": "~1.11.0",
+    "morgan": "~1.7.0",
+    "pg": "5.1.0",
+    "serve-favicon": "~2.3.0"
+  },
+  "description": "This is the seed project you need to use if you're going to create a NodeJS API. You'll mostly use this API either for a SPA or a Mobile app. If you just want to create a Regular NodeJS WebApp, please check [this other seed project](https://github.com/auth0/node-auth0/tree/master/examples/nodejs-regular-webapp)",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "auth0-swift-data-app"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "Eli Harkins",
+  "license": "ISC",
+  "engines": {
+    "node": "4.4.4"
+  }
+}

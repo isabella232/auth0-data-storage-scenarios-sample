@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5F1309992DCD63F246AD69FC7368E01AE25B1C6C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5F1309992DCD63F246AD69FC7368E01AE25B1C6C" : 0,
+    "15175514BA4BCAA08CD753EB3BAF73EFF9223C17" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EC5F7B92-2F75-4F39-BD55-31DEC8F21C28",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5F1309992DCD63F246AD69FC7368E01AE25B1C6C" : "auth0-swift-data-app\/",
+    "15175514BA4BCAA08CD753EB3BAF73EFF9223C17" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftSample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "native-mobile-samples-sample\/SwiftSample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/eharkins\/auth0-swift-data-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "15175514BA4BCAA08CD753EB3BAF73EFF9223C17"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/eharkins\/auth0-swift-data-app",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5F1309992DCD63F246AD69FC7368E01AE25B1C6C"
+    }
+  ]
+}
