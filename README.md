@@ -1,4 +1,4 @@
-# Quickstart Sample for Ionic 1
+# Auth0 User Data Storage Scenario
 
 This repository contains the source code for the [Auth0 User Data Storage Scenario](https://auth0.com/docs/tutorials/user-data-storage-scenario)
 
