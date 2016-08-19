@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Auth0ClientId</key>
-	<string>uFwwyOZ3h16hpx9e9HWmCLZMqbQm3r7n</string>
+	<string>MY_AUTH0_CLIENT_ID</string>
 	<key>Auth0Domain</key>
-	<string>eliharkins.auth0.com</string>
+	<string>example.auth0.com</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSExceptionDomains</key>
@@ -85,7 +85,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>SampleAPIBaseURL</key>
-	<string>https://auth0-node-data-api.herokuapp.com</string>
+	<string>MY_API_URL</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
