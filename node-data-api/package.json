@@ -28,7 +28,7 @@
   "keywords": [
     "heroku"
   ],
-  "author": "Eli Harkins",
+  "author": "Auth0",
   "license": "ISC",
   "engines": {
     "node": "4.4.4"
