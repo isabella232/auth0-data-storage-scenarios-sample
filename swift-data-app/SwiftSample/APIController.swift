@@ -2,7 +2,6 @@
 //  APIController.swift
 //  SwiftSample
 //
-//  Created by Elias Harkins on 8/9/16.
 //  Copyright © 2016 Auth0. All rights reserved.
 //
 
