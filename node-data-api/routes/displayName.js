@@ -6,11 +6,10 @@ var router = express.Router();
 var db = require('pg');
 db.defaults.ssl = true;
 
-var APIManagementKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ3emxWQTVyTElDdlVFcnpGZXpobXhOVUROZVZPNlhiZCIsInNjb3BlcyI6eyJ1c2VycyI6eyJhY3Rpb25zIjpbInJlYWQiLCJ1cGRhdGUiXX19LCJpYXQiOjE0Njk3NDkyNDksImp0aSI6IjlhZmQ1MDk5Mzg2YjZmZjVjZjViNDMzYzA4NDJjYzJjIn0.qHDZ7bMFmbFcTNBDat8uLr2vM3kFKW66m-tDWBHVFfE';
-
+var APIManagementKey = 'MY_AUTH0_API_KEY'
 function changeDisplayName(user_id, displayName, res){
 
-    var URL = 'https://eliharkins.auth0.com/api/v2/users/' + user_id;
+    var URL = 'https://example.auth0.com/api/v2/users/' + user_id;
 
     request({
         url: URL, //URL to hit
@@ -39,7 +38,7 @@ function changeDisplayName(user_id, displayName, res){
 
 function getDisplayName(user_id, res){
 
-    var URL = 'https://eliharkins.auth0.com/api/v2/users/' + user_id + '?fields=user_metadata&include_fields=true';
+    var URL = 'https://example.auth0.com/api/v2/users/' + user_id + '?fields=user_metadata&include_fields=true';
 
     request({
         url: URL, //URL to hit
