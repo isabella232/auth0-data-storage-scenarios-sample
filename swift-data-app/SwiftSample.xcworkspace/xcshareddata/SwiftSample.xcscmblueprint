@@ -17,12 +17,12 @@
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "native-mobile-samples-sample\/SwiftSample.xcworkspace",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/eharkins\/auth0-swift-data-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/auth0-samples\/auth0-data-storage-scenarios-sample.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "15175514BA4BCAA08CD753EB3BAF73EFF9223C17"
     },
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/eharkins\/auth0-swift-data-app",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/auth0-samples\/auth0-data-storage-scenarios-sample.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5F1309992DCD63F246AD69FC7368E01AE25B1C6C"
     }
